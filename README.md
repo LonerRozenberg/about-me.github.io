@@ -1,7 +1,7 @@
 # 👋 Обо мне: Портфолио
 
 [![Сайт](https://img.shields.io/badge/🌐-Посетить_сайт-8A2BE2)](https://lonerrozenberg.github.io/about-me.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-Репозиторий-181717?logo=github)](https://github.com/LonerRosenberg/about-me.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-Репозиторий-181717?logo=github)](https://github.com/LonerRozenberg/about-me.github.io.git)
 
 Привет! Это мое онлайн-портфолио, созданное для потенциальных работодателей и коллег.
 
