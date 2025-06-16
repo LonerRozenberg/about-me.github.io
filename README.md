@@ -1,29 +1,38 @@
-# about-me.github.io
+# 👋 Обо мне: Портфолио
 
-This template should help get you started developing with Vue 3 in Vite.
+[![Сайт](https://img.shields.io/badge/🌐-Посетить_сайт-8A2BE2)](https://lonerrozenberg.github.io/about-me.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-Репозиторий-181717?logo=github)](https://github.com/LonerRosenberg/about-me.github.io)
 
-## Recommended IDE Setup
+Привет! Это мое онлайн-портфолио, созданное для потенциальных работодателей и коллег.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## � Что внутри?
 
-## Customize configuration
+- 📌 Профессиональное резюме
+- 🛠 Мои навыки и компетенции
+- 💼 Опыт работы
+- 🎓 Образование
+- 📂 Примеры проектов
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+## 🛠 Технологии
 
-## Project Setup
+Сайт создан с использованием:
 
-```sh
-npm install
-```
+- Vue
+- CSS
+- JavaScript
+- Shell
+- HTML
+- [GitHub Pages](https://pages.github.com/) для хостинга
 
-### Compile and Hot-Reload for Development
+## 🔍 Как просмотреть?
 
-```sh
-npm run dev
-```
+Просто перейдите по ссылке: [https://lonerrozenberg.github.io/about-me.github.io/](https://lonerrozenberg.github.io/about-me.github.io/)
 
-### Compile and Minify for Production
+## 🤝 Контакты
 
-```sh
-npm run build
-```
+- GitHub: [@LonerRosenberg](https://github.com/LonerRosenberg)
+- Email: Olegilinkin@gmail.com
+
+---
+
+⭐ Приятного просмотра! Буду рад вашим отзывам и предложениям.
