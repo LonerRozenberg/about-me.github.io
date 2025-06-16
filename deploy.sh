@@ -1,19 +1,22 @@
 #!/bin/sh
 
+# Удаляем старую сборку
+rm -rf dist
+
 # Собираем проект
 npm run build
+
+# Создаем CNAME в корне перед сборкой
+echo 'about-me.github.io' > public/CNAME
 
 # Переходим в папку сборки
 cd dist
 
-# Если вы деплоите в project pages (username.github.io/repo-name)
-echo 'about-me.github.io' > CNAME
-
-# Инициализируем Git и пушим на GitHub
+# Инициализируем Git
 git init
-git checkout -b main
+git checkout -b gh-pages
 git add -A
 git commit -m "Deploy to GitHub Pages"
 
 # Пушим в ветку gh-pages
-git push -f git@github.com:LonerRozenberg/about-me.github.io.git main:gh-pages
+git push -f git@github.com:LonerRozenberg/about-me.github.io.git gh-pages
